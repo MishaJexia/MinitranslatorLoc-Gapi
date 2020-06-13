@@ -5,3 +5,6 @@ with Google API
 pip install wheel  (highly recommended)
 pip install googletrans
 
+
+french to english translator
+
