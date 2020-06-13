@@ -1,0 +1,12 @@
+version: 1.0
+publish: app
+services:
+  app:
+    environment:
+      token: '"NzIxMzc2ODQ4MjM1NDYyNjk3.XuTydQ.nPIhQR6uts2irqaGAwh8Nt7ow2U"'
+    build:
+      type: dockerfile
+      config: ./.runme/Dockerfile
+    ports:
+      - container: 8080
+        public: 80
