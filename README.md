@@ -8,3 +8,7 @@ pip install googletrans
 
 french to english translator
 
+
+Copyleft 
+projet Dut réseaux et télecoms télécommunications IUT Créteil-Vitry UPEC
+
